@@ -45,6 +45,7 @@
 
           <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="100">
             <div class="card-item">
+              <span class="ribbon">5 People</span>
               <div class="row h-100">
                 <div class="col-xl-5">
                   <div class="card-bg" style="background-image: url(assets/img/products/product-1.jpg);"></div>
@@ -68,6 +69,7 @@
 
           <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="200">
             <div class="card-item">
+              <span class="ribbon">10 People</span>
               <div class="row h-100">
                 <div class="col-xl-5">
                   <div class="card-bg" style="background-image: url(assets/img/products/product-2.jpg);"></div>
@@ -89,8 +91,9 @@
             </div>
           </div>
 
-          <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="100">
             <div class="card-item">
+              <span class="ribbon">8 People</span>
               <div class="row h-100">
                 <div class="col-xl-5">
                   <div class="card-bg" style="background-image: url(assets/img/products/product-3.jpg);"></div>
@@ -112,7 +115,7 @@
             </div>
           </div>
 
-          <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="400">
+          <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="200">
             <div class="card-item">
               <div class="row h-100">
                 <div class="col-xl-5">
@@ -136,7 +139,7 @@
             </div>
           </div>
 
-          <div class="col-lg-12 text-center mt-5" data-aos="fade-up" data-aos-delay="500">
+          <div class="col-lg-12 text-center mt-5" data-aos="fade-up" data-aos-delay="100">
             <div>
               <a class="custom-btn" href="/products">Check Our Produtcs</a>
             </div>

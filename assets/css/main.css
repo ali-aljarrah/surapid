@@ -2762,3 +2762,44 @@ section {
   border-radius: .375rem;
   transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
+
+.btn-pressed {
+  background-color: #fff;
+  border: 2px solid #384256;
+  color: #384256;
+  font-weight: bold;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+  box-shadow: 0 4px #384256;
+  margin: 0px 15px;
+  border-radius: 5px;
+  transition: all 0.2s ease;
+}
+
+.btn-pressed:hover {
+  box-shadow: 0 2px #384256;
+  transform: translateY(2px);
+}
+
+.btn-pressed:active {
+  box-shadow: 0 0 #384256;
+  transform: translateY(4px);
+}
+
+.btn-pressed.active {
+  transform: translateY(4px);
+  box-shadow: 0 0 #384256;
+}
+
+.card-item .ribbon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: #000000;
+  color: white;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: bold;
+  border-bottom-left-radius: 6px;
+}
