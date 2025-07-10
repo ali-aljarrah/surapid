@@ -128,7 +128,7 @@ section {
   inset: 0;
 }
 
-.breadcrumbs h2 {
+.breadcrumbs h2, .breadcrumbs h1 {
   font-size: 56px;
   font-weight: 500;
   color: #fff;
@@ -701,34 +701,43 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Constructions Section
+# products-section Section
 --------------------------------------------------------------*/
-.constructions .card-item {
-  border: 1px solid rgba(82, 86, 94, 0.2);
+.products-section .card-item {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 10px;
   background: #fff;
   position: relative;
-  border-radius: 0;
+  border-radius: 15px;
+  height: 100%;
+  transition: box-shadow 0.3s ease-in-out;
 }
 
-.constructions .card-item .card-bg {
+.products-section .card-item:hover {
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, 
+              rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.products-section .card-item .card-bg {
+  height: 100%;
   min-height: 300px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  border-radius: 15px 0px 0px 15px;
 }
 
-.constructions .card-item .card-body {
+.products-section .card-item .card-body {
   padding: 30px;
 }
 
-.constructions .card-item h4 {
+.products-section .card-item h4 {
   font-weight: 700;
   font-size: 20px;
   margin-bottom: 15px;
   color: var(--color-secondary);
 }
 
-.constructions .card-item p {
+.products-section .card-item p {
   color: var(--color-secondary);
   margin: 0;
 }
@@ -2716,6 +2725,12 @@ section {
 .custom-btn:hover {
   color: #FFFFFF;
   background-color: #0058b6;
+}
+
+@media(max-width: 1200px) {
+  .products-section .card-item .card-bg {
+    border-radius: 15px 15px 0px 0px;
+  }
 }
 
 @media(max-width: 991px) {
