@@ -6,7 +6,7 @@
 
   <?php include 'include/menu.php' ?>
 
-  <!-- ======= Hero Section ======= -->
+  <!--  Hero Section  -->
   <section id="hero" class="hero">
 
     <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
@@ -30,14 +30,15 @@
 
   <main id="main">
 
-    <!-- ======= Constructions Section ======= -->
-    <section id="constructions" class="constructions">
+    <!-- Latest products Section -->
+    <section class="constructions">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Constructions</h2>
-          <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt quis dolorem
-            dolore earum</p>
+          <h1>Latest Products</h1>
+          <p>
+           It is SURAPID's responsibility to make your building space more user-friendly. We put ourselves in your shoes in all aspects, such as appearance and user experiences.
+          </p>
         </div>
 
         <div class="row gy-4">
@@ -46,86 +47,99 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-1.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(assets/img/products/product-1.jpg);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Eligendi omnis sunt veritatis.</h4>
-                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti
-                      adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                    <h4 class="card-title">Surapid Passenger Elevator</h4>
+                    <p>
+                      SURAPID SJ-Victor Series Passenger Elevator with excellent reliability and superior comfort experience, which is a good choice for residential apartment, office building, and hotels etc.
+                    </p>
+                    <a class="d-block mt-4 w-fit btn btn-info" href="/product">Surapid Passenger Elevator</a>
                   </div>
                 </div>
               </div>
             </div>
-          </div><!-- End Card Item -->
+          </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-2.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(assets/img/products/product-2.jpg);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Possimus ut sed velit assumenda</h4>
-                    <p>Sunt deserunt maiores voluptatem autem est rerum perferendis rerum blanditiis. Est laboriosam qui
-                      iste numquam laboriosam voluptatem architecto. Est laudantium sunt at quas aut hic. Eum
-                      dignissimos.</p>
+                    <h4 class="card-title">Surapid Panoramic Elevator</h4>
+                    <p>
+                      A perfect combination of passenger elevator and panorama lift which is a good choice for shopping mall, depot, harbor, entertaining center and exhibition halls etc.
+                    </p>
+                    <a class="d-block mt-4 w-fit btn btn-info" href="/product">Surapid Panoramic Elevator</a>
                   </div>
                 </div>
               </div>
             </div>
-          </div><!-- End Card Item -->
+          </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-3.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(assets/img/products/product-3.jpg);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Error beatae dolor inventore aut</h4>
-                    <p>Dicta porro nobis. Velit cum in. Nesciunt dignissimos enim molestiae facilis numquam quae quaerat
-                      ipsam omnis. Neque debitis ipsum at architecto officia laboriosam odit. Ut sunt temporibus nulla
-                      culpa.</p>
+                    <h4 class="card-title">Surapid Home Lift</h4>
+                    <p>
+                      An ideal home lift with following characteristic: MRL, low headroom height, easy to install, smooth start and leveling, and comfort experience.
+                    </p>
+                    <a class="d-block mt-4 w-fit btn btn-info" href="/product">Surapid Home Lift</a>
                   </div>
                 </div>
               </div>
             </div>
-          </div><!-- End Card Item -->
+          </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/constructions-4.jpg);"></div>
+                  <div class="card-bg" style="background-image: url(assets/img/products/product-4.jpg);"></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Expedita voluptas ut ut nesciunt</h4>
-                    <p>Aut est quidem doloremque voluptatem magnam quis excepturi vero quia. Eum eos doloremque
-                      architecto illo at beatae dolore. Fugiat suscipit et sint ratione dolores. Aut aliquid ea dolores
-                      libero nobis.</p>
+                    <h4 class="card-title">Surapid Escalator</h4>
+                    <p>
+                      SURAPID escalator is of smooth running, comfort experience, and beautiful features. It is a good choice for hospitals, high-end office building, residential apartment, hotels, CBD, shopping mall, and public facilities etc.
+                    </p>
+                    <a class="d-block mt-4 w-fit btn btn-info" href="/product">Surapid Escalator</a>
                   </div>
                 </div>
               </div>
             </div>
-          </div><!-- End Card Item -->
+          </div>
+
+          <div class="col-lg-12 text-center mt-5" data-aos="fade-up" data-aos-delay="500">
+            <div>
+              <a class="custom-btn" href="/products">Check Our Produtcs</a>
+            </div>
+          </div>
 
         </div>
 
       </div>
-    </section><!-- End Constructions Section -->
+    </section>
+    <!-- End Latest products Section -->
 
-    <!-- ======= Services Section ======= -->
+    <!--  Services Section  -->
     <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
           <h2>Services</h2>
-          <p>Voluptatem quibusdam ut ullam perferendis repellat non ut consequuntur est eveniet deleniti fignissimos eos
-            quam</p>
+          <p>
+            Offer good services at any time, No one knows your equipment better than SURAPID.
+          </p>
         </div>
 
         <div class="row gy-4">
@@ -213,7 +227,7 @@
       </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= Alt Services Section ======= -->
+    <!--  Alt Services Section  -->
     <section id="alt-services" class="alt-services">
       <div class="container" data-aos="fade-up">
 
@@ -268,7 +282,7 @@
       </div>
     </section><!-- End Alt Services Section -->
 
-    <!-- ======= Features Section ======= -->
+    <!--  Features Section  -->
     <section id="features" class="features section-bg">
       <div class="container" data-aos="fade-up">
 
