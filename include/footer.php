@@ -27,18 +27,19 @@
             <h4>Useful Links</h4>
             <ul>
               <li><a href="/">Home</a></li>
-              <li><a href="/products">Products</a></li>
-              <li><a href="/about">About us</a></li>
-              <li><a href="/contact">Contact</a></li>
+              <li><a href="/products.php">Products</a></li>
+              <li><a href="/about.php">About us</a></li>
+              <li><a href="/contact.php">Contact</a></li>
             </ul>
           </div><!-- End footer links column-->
 
           <div class="col-md-3 mb-4 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><a href="/service">Service 1</a></li>
-              <li><a href="/service">Service 2</a></li>
-              <li><a href="/service">Service 3</a></li>
+              <li><a href="/elevator.php">Elevator Modernization</a></li>
+              <li><a href="/traction.php">Traction Machine</a></li>
+              <li><a href="/remote.php">Remote monitoring</a></li>
+              <li><a href="/control.php">Control System</a></li>
             </ul>
           </div><!-- End footer links column-->
 
