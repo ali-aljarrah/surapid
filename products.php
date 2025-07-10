@@ -13,6 +13,10 @@
             <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
                 <h1>Products</h1>
+                 <ol>
+                    <li><a href="/">Home</a></li>
+                    <li>Products</li>
+                </ol>
 
             </div>
         </div><!-- End Breadcrumbs -->
