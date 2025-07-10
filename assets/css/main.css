@@ -1672,6 +1672,7 @@ section {
 .contact .info-item {
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.08);
   padding: 20px 0 30px 0;
+  border-radius: 10px;
 }
 
 .contact .info-item i {
@@ -1706,6 +1707,7 @@ section {
   background: #fff;
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.08);
   padding: 30px;
+  border-radius: 10px;
 }
 
 .contact .php-email-form .form-group {
@@ -2738,4 +2740,25 @@ section {
     min-height: 50vh;
     max-height: 50vh;
   }
+}
+
+
+.form-control {
+  display: block;
+  width: 100%;
+  border-radius: 25px !important;
+  padding: 0.375rem 1.13rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #efefef;
+  background-clip: padding-box;
+  border: 1px solid #0057b5;
+  -webkit-appearance: none;
+  box-shadow: 10px 4px 2px 8px gray;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: .375rem;
+  transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }

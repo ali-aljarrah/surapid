@@ -16,13 +16,14 @@
           <li class="dropdown"><a href="#"><span>Services</span> <i
                 class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="/service">Service 1</a></li>
-              <li><a href="/service">Service 2</a></li>
-              <li><a href="/service">Service 3</a></li>
+              <li><a href="/elevator.php">Elevator Modernization</a></li>
+              <li><a href="/traction.php">Traction Machine</a></li>
+              <li><a href="/remote.php">Remote monitoring</a></li>
+              <li><a href="/control.php">Control System</a></li>
             </ul>
           </li>
           
-          <li><a href="/contact">Contact</a></li>
+          <li><a href="/contact.php">Contact</a></li>
         </ul>
       </nav><!-- .navbar -->
 
