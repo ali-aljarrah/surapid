@@ -21,228 +21,175 @@
             </div>
         </div><!-- End Breadcrumbs -->
 
-        <!-- ======= Products Section ======= -->
-        <section id="features" class="features section-bg">
+        <!-- ======= Our Projects Section ======= -->
+        <section id="projects" class="projects">
             <div class="container" data-aos="fade-up">
-                <div class="products-section">
 
-                    <div class="mb-4 text-center">
-                        <button class="btn-pressed mb-4 mb-lg-0 active" data-filter="all">All</button>
-                        <button class="btn-pressed mb-4 mb-lg-0" data-filter="5">5 People</button>
-                        <button class="btn-pressed mb-4 mb-lg-0" data-filter="8">8 People</button>
-                        <button class="btn-pressed mb-4 mb-lg-0" data-filter="10">10 People</button>
-                    </div>
+                <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry"
+                    data-portfolio-sort="original-order">
 
-                    <div class="row">
+                    <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
+                        <li data-filter="*" class="filter-active">All</li>
+                        <li data-filter=".filter-5-people">5 People</li>
+                        <li data-filter=".filter-8-people">8 People</li>
+                        <li data-filter=".filter-10-people">10 People</li>
+                    </ul><!-- End Projects Filters -->
 
-                        <div class="col-lg-6 mb-4 mx-auto" data-people="10">
-                            <div class="card-item">
-                                <span class="ribbon">10 People</span>
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-1.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Passenger Elevator</h4>
-                                                    <p>
-                                                        SURAPID SJ-Victor Series Passenger Elevator with excellent reliability and superior comfort experience, which is a good choice for residential apartment, office building, and hotels etc.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Passenger Elevator <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                    <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-5-people">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-1.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h4>5 People</h4>
+                                        <p>Surapid Passenger Elevator</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <div class="col-lg-6 mb-4 mx-auto" data-people="5">
-                            <div class="card-item">
-                                <span class="ribbon">5 People</span>
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-2.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Panoramic Elevator</h4>
-                                                    <p>
-                                                        A perfect combination of passenger elevator and panorama lift which is a good choice for shopping mall, depot, harbor, entertaining center and exhibition halls etc.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Panoramic Elevator <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-5-people">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-2.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h4>5 People</h4>
+                                        <p>Surapid Panoramic Elevator</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <div class="col-lg-6 mb-4 mx-auto" data-people="8">
-                            <div class="card-item">
-                                <span class="ribbon">8 People</span>
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-3.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Home Lift</h4>
-                                                    <p>
-                                                        An ideal home lift with following characteristic: MRL, low headroom height, easy to install, smooth start and leveling, and comfort experience.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Home Lift <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-10-people">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-3.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h4>10 People</h4>
+                                        <p>Surapid Home Lift</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <div class="col-lg-6 mb-4 mx-auto" data-people="10">
-                            <div class="card-item">
-                                <span class="ribbon">10 People</span>
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-1.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Passenger Elevator</h4>
-                                                    <p>
-                                                        SURAPID SJ-Victor Series Passenger Elevator with excellent reliability and superior comfort experience, which is a good choice for residential apartment, office building, and hotels etc.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Passenger Elevator <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-8-people">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-1.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h4>8 People</h4>
+                                        <p>Surapid Passenger Elevator</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <div class="col-lg-6 mb-4 mx-auto" data-people="5">
-                            <div class="card-item">
-                                <span class="ribbon">5 People</span>
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-1.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Passenger Elevator</h4>
-                                                    <p>
-                                                        SURAPID SJ-Victor Series Passenger Elevator with excellent reliability and superior comfort experience, which is a good choice for residential apartment, office building, and hotels etc.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Passenger Elevator <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-10-people">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-2.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h4>10 People</h4>
+                                        <p>Surapid Panoramic Elevator</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <div class="col-lg-6 mb-4 mx-auto" data-people="10">
-                            <div class="card-item">
-                                <span class="ribbon">10 People</span>
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-2.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Panoramic Elevator</h4>
-                                                    <p>
-                                                        A perfect combination of passenger elevator and panorama lift which is a good choice for shopping mall, depot, harbor, entertaining center and exhibition halls etc.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Panoramic Elevator <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-8-people">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-3.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h4>8 People</h4>
+                                        <p>Surapid Home Lift</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <div class="col-lg-6 mb-4 mx-auto" data-people="5">
-                            <div class="card-item">
-                                <span class="ribbon">5 People</span>
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-3.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Home Lift</h4>
-                                                    <p>
-                                                        An ideal home lift with following characteristic: MRL, low headroom height, easy to install, smooth start and leveling, and comfort experience.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Home Lift <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                          <div class="col-lg-4 col-md-6 portfolio-item filter-5-people">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-1.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h4>5 People</h4>
+                                        <p>Surapid Passenger Elevator</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <div class="col-lg-6 mb-4 mx-auto" data-people="8">
-                            <div class="card-item">
-                                <span class="ribbon">8 People</span>
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-1.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Passenger Elevator</h4>
-                                                    <p>
-                                                        SURAPID SJ-Victor Series Passenger Elevator with excellent reliability and superior comfort experience, which is a good choice for residential apartment, office building, and hotels etc.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Passenger Elevator <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-5-people">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-2.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h4>5 People</h4>
+                                        <p>Surapid Panoramic Elevator</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <!-- <div class="col-lg-12 mt-5">
-                            <nav aria-label="Page navigation example">
-                                <ul class="pagination justify-content-center">
-                                    <li class="page-item"><a class="page-link" href="#">Previous</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">1</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">3</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">Next</a></li>
-                                </ul>
-                            </nav>
-                        </div> -->
-                    </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-10-people">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-3.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h4>10 People</h4>
+                                        <p>Surapid Home Lift</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-8-people">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-1.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h4>8 People</h4>
+                                        <p>Surapid Passenger Elevator</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-10-people">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-2.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h4>10 People</h4>
+                                        <p>Surapid Panoramic Elevator</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-8-people">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-3.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h4>8 People</h4>
+                                        <p>Surapid Home Lift</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+
+                    </div><!-- End Projects Container -->
+
                 </div>
+
             </div>
         </section>
-        <!-- End Products Section -->
 
     </main>
 

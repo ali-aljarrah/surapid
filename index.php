@@ -9,7 +9,7 @@
   <!--  Hero Section  -->
   <section id="hero" class="hero">
 
-    <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+    <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="4000">
 
       <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/banner-1.webp)"></div>
       <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/banner-2.webp)"></div>
@@ -29,11 +29,10 @@
   </section><!-- End Hero Section -->
 
   <main id="main">
-
     <!-- Latest products Section -->
-    <section class="products-section">
-      <div class="container" data-aos="fade-up">
+    <section class="products-section projects" id="projects">
 
+      <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h1>Latest Products</h1>
           <p>
@@ -41,110 +40,92 @@
           </p>
         </div>
 
-        <div class="row">
+        <div class="portfolio-isotope">
 
-          <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="100">
-            <div class="card-item">
-              <span class="ribbon">5 People</span>
-              <div class="row h-100">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/products/product-1.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body h-100">
-                    <div class="h-100 d-flex flex-column justify-content-between">
-                      <div>
-                        <h4 class="card-title">Surapid Passenger Elevator</h4>
-                        <p>
-                          SURAPID SJ-Victor Series Passenger Elevator with excellent reliability and superior comfort experience, which is a good choice for residential apartment, office building, and hotels etc.
-                        </p>
-                      </div>
-                      <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Passenger Elevator <i class="bi bi-arrow-right"></i></a>
-                    </div>
+          <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+            <div class="col-lg-4 col-md-6 portfolio-item">
+              <a href="/product" title="More Details" class="details-link">
+                <div class="portfolio-content">
+                  <img src="assets/img/products/product-1.jpg" class="img-fluid" alt="">
+                  <div class="portfolio-info">
+                    <h4>5 People</h4>
+                    <p>Surapid Passenger Elevator</p>
                   </div>
                 </div>
+              </a>
+            </div>
+
+
+            <div class="col-lg-4 col-md-6 portfolio-item">
+              <a href="/product" title="More Details" class="details-link">
+                <div class="portfolio-content">
+                  <img src="assets/img/products/product-2.jpg" class="img-fluid" alt="">
+                  <div class="portfolio-info">
+                    <h4>5 People</h4>
+                    <p>Surapid Panoramic Elevator</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item">
+              <a href="/product" title="More Details" class="details-link">
+                <div class="portfolio-content">
+                  <img src="assets/img/products/product-3.jpg" class="img-fluid" alt="">
+                  <div class="portfolio-info">
+                    <h4>10 People</h4>
+                    <p>Surapid Home Lift</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item">
+              <a href="/product" title="More Details" class="details-link">
+                <div class="portfolio-content">
+                  <img src="assets/img/products/product-4.jpg" class="img-fluid" alt="">
+                  <div class="portfolio-info">
+                    <p>Surapid Escalator</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item">
+              <a href="/product" title="More Details" class="details-link">
+                <div class="portfolio-content">
+                  <img src="assets/img/products/product-1.jpg" class="img-fluid" alt="">
+                  <div class="portfolio-info">
+                    <h4>5 People</h4>
+                    <p>Surapid Passenger Elevator</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+
+            <div class="col-lg-4 col-md-6 portfolio-item">
+              <a href="/product" title="More Details" class="details-link">
+                <div class="portfolio-content">
+                  <img src="assets/img/products/product-2.jpg" class="img-fluid" alt="">
+                  <div class="portfolio-info">
+                    <h4>5 People</h4>
+                    <p>Surapid Panoramic Elevator</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+
+          </div>
+          <div class="row">
+            <div class="col-lg-12 text-center mt-5">
+              <div>
+                <a class="custom-btn" href="/products">Check Our Produtcs</a>
               </div>
             </div>
           </div>
-
-          <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="card-item">
-              <span class="ribbon">10 People</span>
-              <div class="row h-100">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/products/product-2.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body h-100">
-                    <div class="h-100 d-flex flex-column justify-content-between">
-                      <div>
-                        <h4 class="card-title">Surapid Panoramic Elevator</h4>
-                        <p>
-                          A perfect combination of passenger elevator and panorama lift which is a good choice for shopping mall, depot, harbor, entertaining center and exhibition halls etc.
-                        </p>
-                      </div>
-                      <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Panoramic Elevator <i class="bi bi-arrow-right"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="100">
-            <div class="card-item">
-              <span class="ribbon">8 People</span>
-              <div class="row h-100">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/products/product-3.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body h-100">
-                    <div class="h-100 d-flex flex-column justify-content-between">
-                      <div>
-                        <h4 class="card-title">Surapid Home Lift</h4>
-                        <p>
-                          An ideal home lift with following characteristic: MRL, low headroom height, easy to install, smooth start and leveling, and comfort experience.
-                        </p>
-                      </div>
-                      <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Home Lift <i class="bi bi-arrow-right"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="card-item">
-              <div class="row h-100">
-                <div class="col-xl-5">
-                  <div class="card-bg" style="background-image: url(assets/img/products/product-4.jpg);"></div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-center">
-                  <div class="card-body h-100">
-                    <div class="h-100 d-flex flex-column justify-content-between">
-                      <div>
-                        <h4 class="card-title">Surapid Escalator</h4>
-                        <p>
-                          SURAPID escalator is of smooth running, comfort experience, and beautiful features. It is a good choice for hospitals, high-end office building, residential apartment, hotels, CBD, shopping mall, and public facilities etc.
-                        </p>
-                      </div>
-                      <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Escalator <i class="bi bi-arrow-right"></i></a>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-12 text-center mt-5" data-aos="fade-up" data-aos-delay="100">
-            <div>
-              <a class="custom-btn" href="/products">Check Our Produtcs</a>
-            </div>
-          </div>
-
         </div>
 
       </div>
@@ -244,8 +225,8 @@
               <div>
                 <h4>Locally trained and globally networked professional engineers</h4>
                 <p>
-                  We have a skilled first-rate maintenance team and a 
-                  globally networked expert team to provide 
+                  We have a skilled first-rate maintenance team and a
+                  globally networked expert team to provide
                   whole-process services
                 </p>
               </div>
@@ -256,9 +237,9 @@
               <div>
                 <h4>Custom-made, Personalized, and IT-based</h4>
                 <p>
-                  The information center, the technical team and the spare part 
-                  center form a “three-in-one” complete service system, which 
-                  provides customers with personalized maintenance solutions 
+                  The information center, the technical team and the spare part
+                  center form a “three-in-one” complete service system, which
+                  provides customers with personalized maintenance solutions
                   and responds to customer demands around the clock.
                 </p>
               </div>
@@ -269,9 +250,9 @@
               <div>
                 <h4>Globally consistent maintenance procedure standard</h4>
                 <p>
-                  We provide a globally consistent, standard, and 
-                  professional maintenance procedure standard to 
-                  ensure that all customers can enjoy the same 
+                  We provide a globally consistent, standard, and
+                  professional maintenance procedure standard to
+                  ensure that all customers can enjoy the same
                   high-quality services.
                 </p>
               </div>
@@ -282,10 +263,10 @@
               <div>
                 <h4>Offcially certified suffcient supply of original parts</h4>
                 <p>
-                  SURAPID has built a long-term strategic partnership 
-                    respectively With OPTIMAX,Forvorda,Fuxin and 
-                    OPTIMAX Heavy Industry, which are all subsidiaries 
-                    of NEW XI'AO, to ensure the stable supply of parts.
+                  SURAPID has built a long-term strategic partnership
+                  respectively With OPTIMAX,Forvorda,Fuxin and
+                  OPTIMAX Heavy Industry, which are all subsidiaries
+                  of NEW XI'AO, to ensure the stable supply of parts.
                 </p>
               </div>
             </div><!-- End Icon Box -->
@@ -295,7 +276,7 @@
               <div>
                 <h4>Higher Maintenance Standard</h4>
                 <p>
-                  Preventive maintenance, semimonthly, quarterly, 
+                  Preventive maintenance, semimonthly, quarterly,
                   semiannually, and yearly adjustment and maintenance, and maintenance as required.
                 </p>
               </div>
@@ -308,7 +289,7 @@
     </section><!-- End Alt Services Section -->
 
 
-       <!-- ======= Get Started Section ======= -->
+    <!-- ======= Get Started Section ======= -->
     <section id="get-started" class="get-started section-bg">
       <div class="container">
 

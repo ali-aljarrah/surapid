@@ -23,161 +23,112 @@
         </div><!-- End Breadcrumbs -->
 
         <!-- ======= Products Section ======= -->
-        <section id="features" class="features section-bg">
+        <section id="projects" class="section-bg projects">
             <div class="container" data-aos="fade-up">
-                <div class="products-section">
-                    <div class="row">
+                <div class="portfolio-isotope">
 
-                        <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="100">
-                            <div class="card-item">
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-5.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Escalator</h4>
-                                                    <p>
-                                                        SURAPID escalator is of smooth running, comfort experience, and beautiful features. It is a good choice for hospitals, high-end office building, residential apartment, hotels, CBD, shopping mall, and public facilities etc.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Escalator <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                    <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+                        <div class="col-lg-4 col-md-6 portfolio-item">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-4.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <p>Surapid Escalator</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="200">
-                            <div class="card-item">
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-5.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Escalator</h4>
-                                                    <p>
-                                                        SURAPID escalator is of smooth running, comfort experience, and beautiful features. It is a good choice for hospitals, high-end office building, residential apartment, hotels, CBD, shopping mall, and public facilities etc.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Escalator <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-4.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <p>Surapid Escalator</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="100">
-                            <div class="card-item">
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-5.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Escalator</h4>
-                                                    <p>
-                                                        SURAPID escalator is of smooth running, comfort experience, and beautiful features. It is a good choice for hospitals, high-end office building, residential apartment, hotels, CBD, shopping mall, and public facilities etc.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Escalator <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-4.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <p>Surapid Escalator</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="200">
-                            <div class="card-item">
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-5.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Escalator</h4>
-                                                    <p>
-                                                        SURAPID escalator is of smooth running, comfort experience, and beautiful features. It is a good choice for hospitals, high-end office building, residential apartment, hotels, CBD, shopping mall, and public facilities etc.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Escalator <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-4.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <p>Surapid Escalator</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="100">
-                            <div class="card-item">
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-5.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Escalator</h4>
-                                                    <p>
-                                                        SURAPID escalator is of smooth running, comfort experience, and beautiful features. It is a good choice for hospitals, high-end office building, residential apartment, hotels, CBD, shopping mall, and public facilities etc.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Escalator <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-4.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <p>Surapid Escalator</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
-                        <div class="col-lg-6 mb-4" data-aos="fade-up" data-aos-delay="200">
-                            <div class="card-item">
-                                <div class="row h-100">
-                                    <div class="col-xl-5">
-                                        <div class="card-bg" style="background-image: url(assets/img/products/product-5.jpg);"></div>
-                                    </div>
-                                    <div class="col-xl-7 d-flex align-items-center">
-                                        <div class="card-body h-100">
-                                            <div class="h-100 d-flex flex-column justify-content-between">
-                                                <div>
-                                                    <h4 class="card-title">Surapid Escalator</h4>
-                                                    <p>
-                                                        SURAPID escalator is of smooth running, comfort experience, and beautiful features. It is a good choice for hospitals, high-end office building, residential apartment, hotels, CBD, shopping mall, and public facilities etc.
-                                                    </p>
-                                                </div>
-                                                <a class="d-block mt-4 w-fit btn btn-light" href="/product">Surapid Escalator <i class="bi bi-arrow-right"></i></a>
-                                            </div>
-                                        </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-4.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <p>Surapid Escalator</p>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
-                        
-                        <!-- <div class="col-lg-12 mt-5">
-                            <nav aria-label="Page navigation example">
-                                <ul class="pagination justify-content-center">
-                                    <li class="page-item"><a class="page-link" href="#">Previous</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">1</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">3</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">Next</a></li>
-                                </ul>
-                            </nav>
-                        </div> -->
+
+                        <div class="col-lg-4 col-md-6 portfolio-item">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-4.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <p>Surapid Escalator</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-4.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <p>Surapid Escalator</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item">
+                            <a href="/product" title="More Details" class="details-link">
+                                <div class="portfolio-content">
+                                    <img src="assets/img/products/product-4.jpg" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <p>Surapid Escalator</p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
                     </div>
+
                 </div>
             </div>
         </section><!-- End Products Section -->
