@@ -62,6 +62,39 @@
                 <img class="img-fluid" src="assets/img/products/product-4.jpg" alt="">
               </div>
 
+              <div class="swiper-slide">
+                <img class="img-fluid" src="assets/img/products/10.png" alt="">
+              </div>
+
+              <div class="swiper-slide">
+                <img class="img-fluid" src="assets/img/products/20.png" alt="">
+              </div>
+
+              <div class="swiper-slide">
+                <img class="img-fluid" src="assets/img/products/30.png" alt="">
+              </div>
+
+              <div class="swiper-slide">
+                <img class="img-fluid" src="assets/img/products/40.png" alt="">
+              </div>
+              <div class="swiper-slide">
+                <img class="img-fluid" src="assets/img/products/50.png" alt="">
+              </div>
+              <div class="swiper-slide">
+                <img class="img-fluid" src="assets/img/products/60.png" alt="">
+              </div>
+              <div class="swiper-slide">
+                <img class="img-fluid" src="assets/img/products/70.png" alt="">
+              </div>
+              <div class="swiper-slide">
+                <img class="img-fluid" src="assets/img/products/80.png" alt="">
+              </div>
+              <div class="swiper-slide">
+                <img class="img-fluid" src="assets/img/products/90.png" alt="">
+              </div>
+              <div class="swiper-slide">
+                <img class="img-fluid" src="assets/img/products/102.png" alt="">
+              </div>
             </div>
             <div class="swiper-pagination"></div>
           </div>
@@ -88,6 +121,35 @@
                 SURAPID SJ-Victor Series Passenger Elevator with excellent reliability and superior comfort experience, which is a good choice for residential apartment, office building, and hotels etc.
               </p>
             </div>
+
+              <div class="col-lg-10">
+                <h3>For any qustions :</h3>
+                <form action="#" method="post" role="form" class="php-email-form">
+                  <div class="row gy-4">
+                    <div class="col-lg-6 form-group">
+                      <input type="text" name="name" class="form-control rounded" id="name" placeholder="Your Name" required>
+                    </div>
+                    <div class="col-lg-6 form-group">
+                      <input type="email" class="form-control rounded" name="email" id="email" placeholder="Your Email" required>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <input type="text" class="form-control rounded" name="subject" id="subject" placeholder="Subject" required>
+                  </div>
+                  <div class="form-group">
+                    <textarea class="form-control rounded px-3" name="message" rows="5" placeholder="Message" required></textarea>
+                  </div>
+                  <div class="my-3">
+                    <div class="loading">Loading</div>
+                    <div class="error-message"></div>
+                    <div class="sent-message">Your message has been sent. Thank you!</div>
+                  </div>
+                  <div class="text-center"><button type="submit">Send Message</button></div>
+                </form>
+              </div>
+          <!-- End Contact Form -->
+
+
           </div>
 
           <div class="col-lg-3">
