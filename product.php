@@ -19,26 +19,26 @@
 
 <body>
 
-    <?php include 'include/menu.php' ?>
+  <?php include 'include/menu.php' ?>
 
-    <main id="main">
+  <main id="main">
 
-        <!-- ======= Breadcrumbs ======= -->
-        <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg.jpg');">
-            <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
+    <!-- ======= Breadcrumbs ======= -->
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg.jpg');">
+      <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
-                <h1>Surapid Passenger Elevator</h1>
-                <ol>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/products">Products</a></li>
-                    <li><a href="/lifts">Lifts</a></li>
-                    <li>Surapid Passenger Elevator</li>
-                </ol>
+        <h1>Surapid Passenger Elevator</h1>
+        <ol>
+          <li><a href="/">Home</a></li>
+          <li><a href="/products">Products</a></li>
+          <li><a href="/lifts">Lifts</a></li>
+          <li>Surapid Passenger Elevator</li>
+        </ol>
 
-            </div>
-        </div><!-- End Breadcrumbs -->
+      </div>
+    </div><!-- End Breadcrumbs -->
 
-           <!-- ======= Projet Details Section ======= -->
+    <!-- ======= Projet Details Section ======= -->
     <section id="project-details" class="project-details">
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -104,57 +104,58 @@
         </div>
 
         <div class="row justify-content-between gy-4 mt-4">
-
-          <div class="col-lg-8">
-            <div class="portfolio-description">
+          <div class="col-lg-12">
               <h2>Surapid Passenger Elevator</h2>
+          </div>
+
+          <div class="col-lg-8 order-2 order-lg-1">
+            <div class="portfolio-description">
+              <h3>Products Description</h3>
               <p>
                 SURAPID SJ-Victor Series Passenger Elevator with excellent reliability and superior comfort experience, which is a good choice for residential apartment, office building, and hotels etc.
               </p>
-                <p>
+              <p>
                 SURAPID SJ-Victor Series Passenger Elevator with excellent reliability and superior comfort experience, which is a good choice for residential apartment, office building, and hotels etc.
               </p>
-                <p>
+              <p>
                 SURAPID SJ-Victor Series Passenger Elevator with excellent reliability and superior comfort experience, which is a good choice for residential apartment, office building, and hotels etc.
               </p>
-                <p>
+              <p>
                 SURAPID SJ-Victor Series Passenger Elevator with excellent reliability and superior comfort experience, which is a good choice for residential apartment, office building, and hotels etc.
               </p>
             </div>
 
-              <div class="col-lg-10">
-                <h3>For any qustions :</h3>
-                <form action="#" method="post" role="form" class="php-email-form">
-                  <div class="row gy-4">
-                    <div class="col-lg-6 form-group">
-                      <input type="text" name="name" class="form-control rounded" id="name" placeholder="Your Name" required>
-                    </div>
-                    <div class="col-lg-6 form-group">
-                      <input type="email" class="form-control rounded" name="email" id="email" placeholder="Your Email" required>
-                    </div>
+            <div id="contact" class="contact mt-5">
+              <form action="#" method="post" role="form" class="php-email-form">
+                <p class="h3 mb-3 fw-bold">Contact us for more information</p>
+                <div class="row gy-4">
+                  <div class="col-lg-6 form-group">
+                    <input type="text" name="name" class="form-control rounded" id="name" placeholder="Your Name" required>
                   </div>
-                  <div class="form-group">
-                    <input type="text" class="form-control rounded" name="subject" id="subject" placeholder="Subject" required>
+                  <div class="col-lg-6 form-group">
+                    <input type="email" class="form-control rounded" name="email" id="email" placeholder="Your Email" required>
                   </div>
-                  <div class="form-group">
-                    <textarea class="form-control rounded px-3" name="message" rows="5" placeholder="Message" required></textarea>
-                  </div>
-                  <div class="my-3">
-                    <div class="loading">Loading</div>
-                    <div class="error-message"></div>
-                    <div class="sent-message">Your message has been sent. Thank you!</div>
-                  </div>
-                  <div class="text-center"><button type="submit">Send Message</button></div>
-                </form>
-              </div>
-          <!-- End Contact Form -->
-
+                </div>
+                <div class="form-group">
+                  <input type="text" class="form-control rounded" name="subject" id="subject" placeholder="Subject" required>
+                </div>
+                <div class="form-group">
+                  <textarea class="form-control rounded px-3" name="message" rows="5" placeholder="Message" required></textarea>
+                </div>
+                <div class="my-3">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Your message has been sent. Thank you!</div>
+                </div>
+                <div class="text-center"><button type="submit">Send Message</button></div>
+              </form>
+            </div>
 
           </div>
 
-          <div class="col-lg-3">
+          <div class="col-lg-3 order-1 order-lg-2 ">
             <div class="portfolio-info">
-              <h3>Products information</h3>
+               <h3>Products information</h3>
               <ul>
                 <li><strong>Rated Loading Capacity:</strong> <span>450~1600kgs</span></li>
                 <li><strong>Speed:</strong> <span>1.0m/s - 7.0m/s</span></li>
@@ -172,9 +173,9 @@
       </div>
     </section><!-- End Projet Details Section -->
 
-    </main>
+  </main>
 
-    <?php include 'include/footer.php' ?>
+  <?php include 'include/footer.php' ?>
 
 </body>
 

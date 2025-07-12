@@ -1487,7 +1487,7 @@ section {
   }
 }
 
-.project-details .portfolio-info h3 {
+.project-details .portfolio-info h3, .project-details .portfolio-description h3 {
   font-size: 22px;
   font-weight: 700;
   margin-bottom: 20px;
@@ -1495,7 +1495,7 @@ section {
   position: relative;
 }
 
-.project-details .portfolio-info h3:after {
+.project-details .portfolio-info h3:after, .project-details .portfolio-description h3:after {
   content: "";
   position: absolute;
   display: block;
@@ -2774,7 +2774,7 @@ section {
   text-transform: uppercase;
   cursor: pointer;
   box-shadow: 0 4px #384256;
-  margin: 0px 15px;
+  margin: 15px;
   border-radius: 5px;
   padding: 10px 20px;
   transition: all 0.2s ease;
