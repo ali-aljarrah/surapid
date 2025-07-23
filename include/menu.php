@@ -3,7 +3,7 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="/" class="logo d-flex align-items-center">
-        <img class="img-fluid" src="assets/img/logo.png" alt="">
+        <img class="img-fluid" src="assets/img/logo_transparent.png" alt="">
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>

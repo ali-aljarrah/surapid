@@ -19,7 +19,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #0158b6;
+  --color-primary: #af905c;
   --color-secondary: #52565e;
 }
 
@@ -274,7 +274,7 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 80px;
   margin-right: 6px;
 }
 
@@ -2716,9 +2716,9 @@ section {
 }
 
 .custom-btn {
-  color: #0058b6;
+  color: #af905c;
   background-color: #FFFFFF;
-  border: 1px solid #0058b6;
+  border: 1px solid #af905c;
   padding: 20px 25px;
   border-radius: 50px;
   font-size: 16px;
@@ -2728,7 +2728,7 @@ section {
 
 .custom-btn:hover {
   color: #FFFFFF;
-  background-color: #0058b6;
+  background-color: #af905c;
 }
 
 @media(max-width: 1200px) {
@@ -2756,7 +2756,7 @@ section {
   color: #212529;
   background-color: #efefef;
   background-clip: padding-box;
-  border: 1px solid #0057b5;
+  border: 1px solid #af905c;
   -webkit-appearance: none;
   box-shadow: 10px 4px 2px 8px gray;
   -moz-appearance: none;
