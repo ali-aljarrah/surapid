@@ -48,7 +48,7 @@
 
                             <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-                                <div class="col-lg-4 col-md-6 portfolio-item">
+                                <div class="col-lg-3 col-md-6 portfolio-item">
                                     <a href="/product" title="More Details" class="details-link">
                                         <div class="portfolio-content">
                                             <img src="assets/img/products/product-1.jpg" class="img-fluid" alt="">
@@ -59,9 +59,7 @@
                                         </div>
                                     </a>
                                 </div>
-
-
-                                <div class="col-lg-4 col-md-6 portfolio-item">
+                                <div class="col-lg-3 col-md-6 portfolio-item">
                                     <a href="/product" title="More Details" class="details-link">
                                         <div class="portfolio-content">
                                             <img src="assets/img/products/product-2.jpg" class="img-fluid" alt="">
@@ -72,8 +70,7 @@
                                         </div>
                                     </a>
                                 </div>
-
-                                <div class="col-lg-4 col-md-6 portfolio-item">
+                                <div class="col-lg-3 col-md-6 portfolio-item">
                                     <a href="/product" title="More Details" class="details-link">
                                         <div class="portfolio-content">
                                             <img src="assets/img/products/product-3.jpg" class="img-fluid" alt="">
@@ -84,8 +81,7 @@
                                         </div>
                                     </a>
                                 </div>
-
-                                <div class="col-lg-4 col-md-6 portfolio-item">
+                                <div class="col-lg-3 col-md-6 portfolio-item">
                                     <a href="/product" title="More Details" class="details-link">
                                         <div class="portfolio-content">
                                             <img src="assets/img/products/product-1.jpg" class="img-fluid" alt="">
@@ -96,9 +92,7 @@
                                         </div>
                                     </a>
                                 </div>
-
-
-                                <div class="col-lg-4 col-md-6 portfolio-item">
+                                <div class="col-lg-3 col-md-6 portfolio-item">
                                     <a href="/product" title="More Details" class="details-link">
                                         <div class="portfolio-content">
                                             <img src="assets/img/products/product-2.jpg" class="img-fluid" alt="">
@@ -109,8 +103,7 @@
                                         </div>
                                     </a>
                                 </div>
-
-                                <div class="col-lg-4 col-md-6 portfolio-item">
+                                <div class="col-lg-3 col-md-6 portfolio-item">
                                     <a href="/product" title="More Details" class="details-link">
                                         <div class="portfolio-content">
                                             <img src="assets/img/products/product-3.jpg" class="img-fluid" alt="">

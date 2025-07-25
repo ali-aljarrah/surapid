@@ -8,11 +8,11 @@
           <div class="col-md-6 mb-4">
             <div class="footer-info">
                <a href="/" class="logo d-block mb-4">
-                    <img width="278" height="45" class="img-fluid" src="assets/img/logo.png" alt="">
+                    <img width="278" height="45" class="img-fluid" src="assets/img/logo_transparent.png" alt="">
                 </a>
               <p>
-                <strong>Phone:</strong> <a href="tel:+86 137 7182 9742">+86 137 7182 9742</a><br>
-                <strong>Email:</strong> <a href="mailto:info@surapidelevator.com">info@surapidelevator.com</a><br>
+                <strong>Phone:</strong> <a href="tel:00967707787774">+967 707 7877 74</a><br>
+                <strong>Email:</strong> <a href="mailto:info@surapidelevator.com">ali.imran@binaashahiq.com</a><br>
               </p>
               <div class="social-links d-flex mt-3">
                 <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
@@ -50,7 +50,7 @@
     <div class="footer-legal text-center position-relative">
       <div class="container">
         <div class="copyright">
-          &copy; Copyright - <script>document.write(new Date().getFullYear());</script> <strong><span>SURAPID</span></strong>. All Rights Reserved
+          &copy; Copyright - <script>document.write(new Date().getFullYear());</script> <strong><span>AL Binaa AL SHAHIQ</span></strong>. All Rights Reserved
         </div>
       </div>
     </div>

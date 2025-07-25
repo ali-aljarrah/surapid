@@ -260,7 +260,7 @@ section {
 .header {
   z-index: 997;
   position: fixed;
-  padding: 30px 0;
+  padding: 5px 0;
   top: 0;
   left: 0;
   right: 0;
@@ -274,8 +274,8 @@ section {
 }
 
 .header .logo img {
-  max-height: 80px;
-  margin-right: 6px;
+  max-height: 135px;
+  margin-right: 2px;
 }
 
 .header .logo h1 {
@@ -947,8 +947,9 @@ section {
 .projects .portfolio-content {
   position: relative;
   overflow: hidden;
-  max-height: 350px;
+  max-height: 400px;
   border-radius: 5px;
+  box-shadow: 0px 0px 10px 1px #c5c5c5;
 }
 
 .projects .portfolio-content img {

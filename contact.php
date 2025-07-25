@@ -31,7 +31,7 @@
             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-map"></i>
               <h3>Our Address</h3>
-              <p>Kurdistan-Erbil \ Naz Naz Street</p>
+              <p>: Kurdistan-Erbil \ Naz Naz Street </p>
             </div>
           </div><!-- End Info Item -->
 
@@ -39,7 +39,7 @@
             <div class="info-item d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-envelope"></i>
               <h3>Email Us</h3>
-              <p>info@surapidelevator.com</p>
+              <p>ali.imran@binaashahiq.com</p>
             </div>
           </div><!-- End Info Item -->
 
@@ -47,7 +47,7 @@
             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-telephone"></i>
               <h3>Call Us</h3>
-              <p>+86 137 7182 9742</p>
+              <p>+967 707 787 774</p>
             </div>
           </div><!-- End Info Item -->
 
